@@ -1,6 +1,6 @@
 # Belief Combination of Classifiers for Incomplete Data  
-Code for our JAS paper that resolve classification problem with incomplete data. [[pdf]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2022.105458)
-    
+Code for our JAS paper that handle missing values in data. [[pdf]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2022.105458)
+
     
 ---
 In progress, will be released soon  
